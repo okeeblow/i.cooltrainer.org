@@ -53,11 +53,8 @@ grunt.initConfig({
       },
       files: {
         'build/index.html': 'src/index.html',
-        'build/partials/ads.html': 'src/partials/ads.html',
         'build/partials/apps.html': 'src/partials/apps.html',
         'build/partials/autorm.html': 'src/partials/autorm.html',
-        'build/partials/contacts.html': 'src/partials/contacts.html',
-        'build/partials/donate.html': 'src/partials/donate.html',
         'build/partials/js.html': 'src/partials/js.html',
         'build/partials/my.html': 'src/partials/my.html',
         'build/partials/rm.html': 'src/partials/rm.html',
