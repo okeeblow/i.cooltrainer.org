@@ -1,10 +1,8 @@
 {
-  "name": "img.bi",
+  "name": "i.cooltrainer.org",
   "maxSize": "3145728",
   "acceptedTypes": ["image/png", "image/jpeg", "image/gif", "image/svg+xml", "image/webp"],
-  "clearnet": "https://img.bi",
-  "i2p": "http://imgbi.i2p",
-  "tor": "http://imgbifwwqoixh7te.onion",
+  "clearnet": "https://i.cooltrainer.org",
   "languages": [
     {
       "iso": "en",
