@@ -1,6 +1,6 @@
 {
   "name": "i.cooltrainer.org",
-  "maxSize": "3145728",
+  "maxSize": "52428800",
   "acceptedTypes": ["image/png", "image/jpeg", "image/gif", "image/svg+xml", "image/webp"],
   "clearnet": "https://i.cooltrainer.org",
   "languages": [
